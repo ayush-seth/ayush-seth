@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on **my portfolio website**
 
-- 🌱 I’m currently learning **RxJs**
+- 🌱 I’m currently learning **GraphQL**
 
 - 📫 How to reach me **ayush-seth@outlook.com**
 
