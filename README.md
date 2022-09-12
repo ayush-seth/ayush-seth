@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **GraphQL**
 
-- 📫 How to reach me **ayush-seth@outlook.com**
+- 📫 How to reach me **me@ayushseth.dev**
 
 - ⚡ Fun fact **I love to play the guitar and post covers on my Instagram and YouTube channel**
 
